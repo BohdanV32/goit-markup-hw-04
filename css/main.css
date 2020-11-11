@@ -652,7 +652,7 @@ body {
     display: block;
     width: 20px;
     height: 20px;
-    color: var(--white);
+    fill: var(--white);
 }
 .flex-cool {
     display: flex;
